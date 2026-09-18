@@ -1,7 +1,8 @@
 
 ## Mapas
-+ [Czepeku](https://www.czepeku.com/fantasy/maps)
-+ [Inkarnate](https://inkarnate.com/maps)
++ [Czepeku](https://www.czepeku.com/fantasy/maps) Para buscar prearmados.
++ [Inkarnate](https://inkarnate.com/maps) Para dibujar.
++ [Roll20](https://roll20.net/) Para jugar y mover los fichines.
 ## [[Música]]
 
 ## [[Consejos de GMing]]
@@ -11,7 +12,7 @@
 + [[yt Dimension 20]] tiene de todo, videos de consejos, debates, campañas para ver
 + [Critical Role](https://www.youtube.com/playlist?list=PL1tiwbzkOjQxD0jjAE7PsWoaCrs0EkBH2), más que nada viendo las campañas
 
-## Escenarios y mecánicas de combate
+## Lista ejemplos de escenarios y mecánicas de combate
 
 Combates normales
 	Escaramuza
@@ -40,3 +41,5 @@ Objetivos generales
 
 [[Batallas Navales en DnD|Batallas navales]]
 [[Batallas Montados en DnD|Batallas montados]]
+
+## 

@@ -1,4 +1,4 @@
-Tags : [[youtube]] ; [[DnD]]
+Tags : [[youtube]]; [[Consejos de GMing]]
 
 [6 easy steps to KILLER roleplay](https://www.youtube.com/watch?v=ZCghuA3GY70)
 [I asked 600 DMs for their VERY BEST advice](https://www.youtube.com/watch?v=Lx2pPiVRpdw&pp=ygUhY29ya2JvYXJkcyBhbmQgY3VyaW9zaXR5IHJvbGVwbGF5)
