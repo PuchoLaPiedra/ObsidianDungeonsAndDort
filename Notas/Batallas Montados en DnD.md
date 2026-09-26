@@ -5,8 +5,7 @@ Tipos
 	Convoy
 	Eventos deportivos competitivos
 		Justas
-		Derby con contacto
-		Carrera
+		Carrera con o sin contacto
 
 Tipos de montura
 	Caballo de carrera / de guerra
