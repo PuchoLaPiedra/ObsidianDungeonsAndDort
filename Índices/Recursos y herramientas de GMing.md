@@ -22,15 +22,12 @@ Combates normales
 	Boss
 
 Escenarios especiales
-	Golpe ( planificado )
+	Extracción / Recuperación
+		Golpe / asalto ( planificado ) o expedición / exploración
 	Eventos deportivos / competitivos
-		Duelos, justas, carreras, otros derbis, etc.
-	Pruebas
-	Convoy ( defensa o ataque )
-	Persecución o escape
-		Guerra
-		Campo abierto
-		Fuerte ( defensa  o asedio )
+		Duelos, justas, carreras, otros derbis
+	Convoy ( defensa / ataque )
+	Persecución
 
 Objetivos generales
 	Supervivencia
