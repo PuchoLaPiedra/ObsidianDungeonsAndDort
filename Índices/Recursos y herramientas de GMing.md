@@ -4,39 +4,22 @@
 + [Inkarnate](https://inkarnate.com/maps) Para dibujar.
 + [Roll20](https://roll20.net/) Para jugar y mover los fichines.
 ## [[Música]]
-
 ## [[Consejos de GMing]]
-
 + [[yt Mystic Arts]] tipazo y con buenos consejos aptos para toda mesa 
 + [[yt Corkboards & Curiosities]]: genia loca, consejos más bizarros
-+ [[yt Dimension 20]] tiene de todo, videos de consejos, debates, campañas para ver
++ [Dimension 20](https://www.youtube.com/@dimension20show) tiene de todo, videos de consejos, debates, campañas para ver
 + [Critical Role](https://www.youtube.com/playlist?list=PL1tiwbzkOjQxD0jjAE7PsWoaCrs0EkBH2), más que nada viendo las campañas
-
-## Lista ejemplos de escenarios y mecánicas de combate
-
-Combates normales
-	Escaramuza
-	Emboscada ( defensa o ataque )
-	Hordas
-	Equipo de Elite
-	Boss
-
-Escenarios especiales
-	Extracción / Recuperación
-		Golpe / asalto ( planificado ) o expedición / exploración
-	Eventos deportivos / competitivos
-		Duelos, justas, carreras, otros derbis
-	Convoy ( defensa / ataque )
-	Persecución
-
-Objetivos generales
-	Supervivencia
-	Rescate, robo, secuestro
-	Buscar y destruir, sabotear, asesinar
-	Contra el tiempo ( aguantar o contrarreloj )
-	Recompensa ( item o plata )
-
-[[Batallas Navales en DnD|Batallas navales]]
-[[Batallas Montados en DnD|Batallas montados]]
-
+One-shots
++ [Critical role playlist](https://www.youtube.com/show/VLPL1tiwbzkOjQyUR1nbxZGETYMZRCcfV6yL?sbp=KgtIdXlwNnAzNkdrWUAB)
++ [GM tips criticalrole++](https://www.youtube.com/watch?v=6XikjjQok5Y&list=PL7atuZxmT9570U87GhK_20NcbxM43vkom)
++ [Pointy hat one-shots](https://youtu.be/gCDQSpU2w8s?list=TLPQMDUxMDIwMjZkzAEVIuDpyw)
++ [Mat + Brenan Gming](https://youtu.be/4JtUPBkYQOY?list=TLPQMDUxMDIwMjZkzAEVIuDpyw)
++ [Matt + Liam + Zack Oneshots](https://youtu.be/sNo0Uh8OAVE?list=TLPQMDUxMDIwMjZkzAEVIuDpyw)
+## Listas y ejemplos varios
+[[Lista de opciones de combates generales|Mecánicas y escenarios de combate]]
+	[[Batallas Navales en DnD|Batallas navales]]
+	[[Batallas Montados en DnD|Batallas montados]]
+[[Lista de locaciones para dungeons|Ejemplos de locaciones]]
+[[Lista de presagios de hadas]]
+[[Consejos para campañas cortas|Consejos para arrancar rápido]]
 ## 
